@@ -1,0 +1,8 @@
+com\dreyer\connection\Connection.class
+com\dreyer\connection\RIMensagem.class
+com\dreyer\connection\RMIConnection.class
+com\dreyer\client\Client.class
+com\dreyer\connection\FactoryConnection.class
+com\dreyer\game\Forca.class
+com\dreyer\connection\RMIImObjeto.class
+com\dreyer\connection\SocketConnection.class
